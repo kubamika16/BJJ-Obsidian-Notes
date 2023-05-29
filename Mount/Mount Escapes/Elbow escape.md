@@ -1,0 +1,1 @@
+Elbow escape is a powerful technique that helps to connect knee and elbow on the ground and a result of it is a [[Full Guard]].

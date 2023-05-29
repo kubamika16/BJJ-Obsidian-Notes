@@ -1,0 +1,1 @@
+This is a transition technique that helps to get to the opponents [[Mount]].

@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "517ba4325a215f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "0319d18931be66d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef2386b76a1408ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8a5ce84ad433ccf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "473a2ef17db95b51",
+    "type": "split",
+    "children": [
+      {
+        "id": "35f2c87d3059a81f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf7c35eb5ab2128",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0551a239cf965227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c139b2f09ca2c51a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35b722ea249da9a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f80a5de55912f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace248871e6105cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08c43cb5c333a458",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b39dc1847f3fd225",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a5a4aa8351f618d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c8a5ce84ad433ccf",
+  "lastOpenFiles": [
+    "Mount.md",
+    "Untitled.canvas",
+    "Mount/Mount.md",
+    "Mount/Mount Escapes/Elbow escape.md",
+    "Full guard/Transitions/Scissors Sweep.md",
+    "Full guard/Full Guard.md",
+    "Mount/Mount Submissions/Ezequel.md",
+    "Mount/Mount Submissions",
+    "Full guard/Sumbissions",
+    "Full guard/Transitions",
+    "Mount/Mount Escapes",
+    "Full guard",
+    "Mount",
+    "Untitled.md"
+  ]
+}
